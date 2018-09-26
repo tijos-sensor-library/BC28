@@ -4,8 +4,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 import tijos.framework.devicecenter.TiUART;
-import tijos.framework.util.Formatter;
-import tijos.framework.util.logging.Logger;
+ 
 
 /**
  * Output Stream for UART

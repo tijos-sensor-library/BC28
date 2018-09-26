@@ -4,9 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 import tijos.framework.devicecenter.TiUART;
-import tijos.framework.util.Delay;
-import tijos.framework.util.Formatter;
-import tijos.framework.util.logging.Logger;
+
 
 /**
  * Input stream for UART, it's recommended to work with BufferedIOStream 

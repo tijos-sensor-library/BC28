@@ -11,8 +11,7 @@ import tijos.framework.util.Delay;
 import tijos.framework.util.Formatter;
 
 /**
- * Quectel BC95/BC28 NB-IOT module driver for TiJOS , refer to
- * http://www.quectel.com/product/bc95.htm for more information Note that:
+ * Quectel BC95/BC28 NB-IOT module driver for TiJOS
  * NB-IOT module need to bind a server IP for data transportation, please
  * confirm with the NB-IOT provider before testing
  */
